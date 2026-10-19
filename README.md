@@ -19,7 +19,12 @@
 - 选人页面保持原样
 - 黑太岁前后外观一致
 
-## 下载`n`n- 仓库内直接下载 `LihuowangFeminization2.dll`、`LihuowangFeminization2.pck`、`LihuowangFeminization2.json``n- 或从 Releases 下载：https://github.com/unkonwn-sd/LihuowangFeminization2/releases/tag/v3.1.0`n`n## 安装
+## 下载
+
+- 仓库内直接下载 `LihuowangFeminization2.dll`、`LihuowangFeminization2.pck`、`LihuowangFeminization2.json`
+- 或从 Releases 下载：https://github.com/unkonwn-sd/LihuowangFeminization2/releases/tag/v3.1.0
+
+## 安装
 
 1. 先安装李火旺角色 mod `lihuowang2`。
 2. 安装 [RitsuLib](https://steamcommunity.com/sharedfiles/filedetails/?id=3747602295)（设置页依赖）。
