@@ -1,6 +1,8 @@
-# LihuowangFeminization2
+# Lihuowang2Feminization
 
 《杀戮尖塔 2》(Slay the Spire 2) 的李火旺娘化皮肤 mod。
+
+> 内部 mod id 仍为 `LihuowangFeminization2`，安装目录和依赖关系不变；显示名称为 `Lihuowang2Feminization`。
 
 本仓库发布可安装的整合版本，供需要该皮肤的用户直接使用。
 
