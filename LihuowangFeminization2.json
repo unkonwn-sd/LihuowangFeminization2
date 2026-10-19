@@ -1,0 +1,18 @@
+{
+  "id": "LihuowangFeminization2",
+  "name": "李火旺娘化 (动态皮肤)",
+  "pck_name": "LihuowangFeminization2",
+  "author": "HuowangFeminization contributors",
+  "description": "Li Huowang feminization skin: 135-frame idle, 36-frame hit, half-HP damaged skin toggle.",
+  "version": "3.1.0",
+  "has_pck": true,
+  "has_dll": true,
+  "affects_gameplay": false,
+  "min_game_version": "0.111.0",
+  "dependencies": [
+    {
+      "id": "lihuowang2",
+      "min_version": "0.0.2"
+    }
+  ]
+}
