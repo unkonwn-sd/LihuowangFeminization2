@@ -4,7 +4,7 @@
   "pck_name": "LihuowangFeminization2",
   "author": "HuowangFeminization contributors",
   "description": "移植自塔一的娘化mod",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "has_pck": true,
   "has_dll": true,
   "affects_gameplay": false,
