@@ -6,24 +6,25 @@
 
 ## 版本
 
-- 当前发布：`v3.1.0`
+- 当前发布：`v0.0.4`
 - 游戏版本：`0.111.0+`
 - 角色依赖：`lihuowang2`（李火旺角色 mod）
 
 ## 功能
 
-- 135 帧待机动画（4.5 秒循环）
-- 36 帧独立受击动画
-- 半血以下爆衣皮肤切换
-- 攻击突进、战败 CG
-- 选人页面保持原样
-- 黑太岁前后外观一致
+- 240 帧待机动画（4 秒 / 60fps）
+- 60 帧受击动画
+- 完全格挡：播放帧动画
+- 实际生命损伤：使用静态受击立绘
+- 半血以下爆衣皮肤切换（A/B 两套静态立绘）
+- 攻击、技能、能力、触手、游老爷、苍蜣登阶动作立绘
+- 战败 CG、选人页面原样、黑太岁前后一致
 
 ## 下载
 
 - `LihuowangFeminization2.dll`、`LihuowangFeminization2.json`：仓库内直接下载
 - `LihuowangFeminization2.pck`：从 Releases 下载
-  https://github.com/unkonwn-sd/LihuowangFeminization2/releases/tag/v3.1.0
+  https://github.com/unkonwn-sd/LihuowangFeminization2/releases/tag/v0.0.4
 
 ## 安装
 
@@ -46,7 +47,7 @@ Slay the Spire 2/mods/LihuowangFeminization2/
 设置 → Mods → 李火旺娘化
 ```
 
-- **半血以下爆衣**：勾选后，生命 ≤ 50% 时切换爆衣形象；动作保持不变。
+- **R18开关**（默认关闭）：开启后，生命 ≤ 50% 时切换爆衣形象，动作保持不变。
 - 取消勾选或回血后恢复普通形象。
 
 配置保存在：
@@ -67,7 +68,7 @@ user://LihuowangFeminization2.cfg
 
 - 仅测试于 Slay the Spire 2 `0.111.0`。
 - 需要 `lihuowang2` 角色 mod。
-- 设置页需要 RitsuLib；没有 RitsuLib 时 mod 仍可运行，但无法在游戏内切换爆衣开关。
+- 设置页需要 RitsuLib；没有 RitsuLib 时 mod 仍可运行，但无法在游戏内切换 R18开关。
 
 ## 素材与版权
 
