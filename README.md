@@ -6,7 +6,7 @@
 
 ## 版本
 
-- 当前发布：`v0.0.4`
+- 当前发布：`v0.0.5`
 - 游戏版本：`0.111.0+`
 - 角色依赖：`lihuowang2`（李火旺角色 mod）
 
@@ -19,12 +19,14 @@
 - 半血以下爆衣皮肤切换（A/B 两套静态立绘）
 - 攻击、技能、能力、触手、游老爷、苍蜣登阶动作立绘
 - 战败 CG、选人页面原样、黑太岁前后一致
+- 多人模式只响应本地玩家卡牌
+- 连续攻击不会累计位移
 
 ## 下载
 
 - `LihuowangFeminization2.dll`、`LihuowangFeminization2.json`：仓库内直接下载
 - `LihuowangFeminization2.pck`：从 Releases 下载
-  https://github.com/unkonwn-sd/LihuowangFeminization2/releases/tag/v0.0.4
+  https://github.com/unkonwn-sd/LihuowangFeminization2/releases/tag/v0.0.5
 
 ## 安装
 
